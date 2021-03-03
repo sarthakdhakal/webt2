@@ -1,0 +1,8 @@
+<?xml version= "1.0"?>
+<phpunit>
+    <testsuites>
+        <testsuites name= "tests">
+            <directory>tests</directory>
+        </testsuites>
+    </testsuites>
+</phpunit>
